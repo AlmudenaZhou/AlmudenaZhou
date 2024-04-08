@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am actively building a portfolio that emphasizes my expertise in Data Science projects, as my ultimate goal is to transition into a Machine Learning Engineer role. Through this portfolio, I showcase my proficiency in data analysis, predictive modeling, and generating valuable insights. Additionally, I explore various tools and technologies to broaden my skill set and adaptability. By sharing my projects on GitHub, I aim to connect with fellow professionals and collaborate on advancing our knowledge and skills in Data Science and Machine Learning. Let's join forces and make a significant impact in the field together.
-
+AI Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almudena-zhou-ramirez-lopez/) 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Engineer
+I am an experienced Data Scientist and AI Engineer with a strong background in developing and deploying machine learning models. With additional experience in LLMs, RAGs, and prompting engineering. Proven track record of collaborating with cross-functional teams, managing code quality, and ensuring compliance with industry standards. My journey is fueled by a genuine curiosity and a passion for learning, driving me to create more productive and optimal systems for machine learning models.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almudena-zhou-ramirez-lopez/) 

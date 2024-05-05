@@ -3,6 +3,7 @@ I am an experienced Data Scientist and AI Engineer with a strong background in d
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almudena-zhou-ramirez-lopez/) 
+
 [My Portfolio](https://almudenazhou.github.io/)
 
 # 💻 Tech Stack:
